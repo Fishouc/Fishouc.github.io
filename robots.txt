@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: www.peng-sun.com/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

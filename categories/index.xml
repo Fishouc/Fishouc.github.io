@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Peng Sun&#39;s Team</title>
-    <link>www.peng-sun.com/categories/</link>
-      <atom:link href="www.peng-sun.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/categories/</link>
+      <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/www.peng-sun.com/media/logo_hud3bb1422cb570c9c602b34e558b12a5d_4102545_300x300_fit_lanczos_3.png</url>
+      <url>https://example.com/media/logo_hud3bb1422cb570c9c602b34e558b12a5d_4102545_300x300_fit_lanczos_3.png</url>
       <title>Categories</title>
-      <link>www.peng-sun.com/categories/</link>
+      <link>https://example.com/categories/</link>
     </image>
     
   </channel>
