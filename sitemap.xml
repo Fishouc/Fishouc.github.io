@@ -6,9 +6,9 @@
   <url>
     <loc>https://example.com/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -50,8 +50,8 @@
   <url>
     <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tour/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/guankui-liu/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/guankui-liu/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://example.com/tour/</loc><changefreq>weekly</changefreq></url></urlset>
