@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>俞杰 | EIF</title>
-    <link>https://example.com/zh/author/%E4%BF%9E%E6%9D%B0/</link>
-      <atom:link href="https://example.com/zh/author/%E4%BF%9E%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.peng-sun.com/zh/author/%E4%BF%9E%E6%9D%B0/</link>
+      <atom:link href="www.peng-sun.com/zh/author/%E4%BF%9E%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>俞杰</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://example.com/zh/author/%E4%BF%9E%E6%9D%B0/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/www.peng-sun.com/zh/author/%E4%BF%9E%E6%9D%B0/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
       <title>俞杰</title>
-      <link>https://example.com/zh/author/%E4%BF%9E%E6%9D%B0/</link>
+      <link>www.peng-sun.com/zh/author/%E4%BF%9E%E6%9D%B0/</link>
     </image>
     
   </channel>
