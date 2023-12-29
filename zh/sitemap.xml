@@ -4,248 +4,248 @@
   
   
   <url>
-    <loc>https://example.com/zh/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="./"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/"
+      href="./zh/"
     /></url>
   <url>
-    <loc>https://example.com/zh/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/example/"
+      href="./event/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/event/example/"
+      href="./zh/event/example/"
     /></url>
   <url>
-    <loc>https://example.com/zh/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
+      href="./event/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/event/"
+      href="./zh/event/"
     /></url>
   <url>
-    <loc>https://example.com/zh/publication-type/2/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/publication-type/2/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/2/"
+      href="./publication-type/2/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/publication-type/2/"
+      href="./zh/publication-type/2/"
     /></url>
   <url>
-    <loc>https://example.com/zh/publication/journal-article/2022/age-growth-and-maturation-of-largehead-hairtail-trichiurus-japonicus-in-the-east-china-sea/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>./zh/publication/journal-article/2022/age-growth-and-maturation-of-largehead-hairtail-trichiurus-japonicus-in-the-east-china-sea/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/authors/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/authors/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/authors/"
+      href="./authors/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/authors/"
+      href="./zh/authors/"
     /></url>
   <url>
-    <loc>https://example.com/zh/publication_types/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/publication_types/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="./publication_types/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/publication_types/"
+      href="./zh/publication_types/"
     /></url>
   <url>
-    <loc>https://example.com/zh/publication/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/publication/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="./publication/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/publication/"
+      href="./zh/publication/"
     /></url>
   <url>
-    <loc>https://example.com/zh/tags/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/tags/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href="./tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/tags/"
+      href="./zh/tags/"
     /></url>
   <url>
-    <loc>https://example.com/zh/author/%E5%88%98%E9%98%B3/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E5%88%98%E9%98%B3/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/author/%E5%AD%99%E6%B6%A6%E9%9A%86/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E5%AD%99%E6%B6%A6%E9%9A%86/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/author/%E5%AD%99%E9%B9%8F/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E5%AD%99%E9%B9%8F/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/tag/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>./zh/tag/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/author/%E6%97%B6%E6%94%BF%E9%80%9A/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E6%97%B6%E6%94%BF%E9%80%9A/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/author/%E7%A8%8B%E7%A1%95/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E7%A8%8B%E7%A1%95/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/author/%E9%99%88%E7%90%AA/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E9%99%88%E7%90%AA/</loc><lastmod>2022-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/20-12-02-icml-best-paper/"
+      href="./post/20-12-02-icml-best-paper/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/post/20-12-02-icml-best-paper/"
+      href="./zh/post/20-12-02-icml-best-paper/"
     /></url>
   <url>
-    <loc>https://example.com/zh/post/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/post/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="./post/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/post/"
+      href="./zh/post/"
     /></url>
   <url>
-    <loc>https://example.com/zh/publication-type/3/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/publication-type/3/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/3/"
+      href="./publication-type/3/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/publication-type/3/"
+      href="./zh/publication-type/3/"
     /></url>
   <url>
-    <loc>https://example.com/zh/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/preprint/"
+      href="./publication/preprint/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/publication/preprint/"
+      href="./zh/publication/preprint/"
     /></url>
   <url>
-    <loc>https://example.com/zh/tag/source-themes/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/tag/source-themes/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/source-themes/"
+      href="./tag/source-themes/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/tag/source-themes/"
+      href="./zh/tag/source-themes/"
     /></url>
   <url>
-    <loc>https://example.com/zh/author/%E5%88%98%E8%B4%AF%E5%A5%8E/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/author/%E5%88%98%E8%B4%AF%E5%A5%8E/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/author/peng-sun/"
+      href="./author/peng-sun/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/author/%E5%88%98%E8%B4%AF%E5%A5%8E/"
+      href="./zh/author/%E5%88%98%E8%B4%AF%E5%A5%8E/"
     /></url>
   <url>
-    <loc>https://example.com/zh/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="./publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/publication-type/1/"
+      href="./zh/publication-type/1/"
     /></url>
   <url>
-    <loc>https://example.com/zh/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/conference-paper/"
+      href="./publication/conference-paper/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/publication/conference-paper/"
+      href="./zh/publication/conference-paper/"
     /></url>
   <url>
-    <loc>https://example.com/zh/author/robert-ford/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/author/robert-ford/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/author/robert-ford/"
+      href="./author/robert-ford/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/author/robert-ford/"
+      href="./zh/author/robert-ford/"
     /></url>
   <url>
-    <loc>https://example.com/zh/contact/</loc><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/contact/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/contact/"
+      href="./contact/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/contact/"
+      href="./zh/contact/"
     /></url>
   <url>
-    <loc>https://example.com/zh/people/</loc><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/people/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/people/"
+      href="./people/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/people/"
+      href="./zh/people/"
     /></url>
   <url>
-    <loc>https://example.com/zh/categories/</loc><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/categories/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/categories/"
+      href="./categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/categories/"
+      href="./zh/categories/"
     /></url>
   <url>
-    <loc>https://example.com/zh/tour/</loc><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/tour/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tour/"
+      href="./tour/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/tour/"
+      href="./zh/tour/"
     /></url>
   <url>
-    <loc>https://example.com/zh/author/%E4%BF%9E%E6%9D%B0/</loc><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E4%BF%9E%E6%9D%B0/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/author/%E5%AD%99%E6%B6%A6%E9%9A%86/</loc><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E5%AD%99%E6%B6%A6%E9%9A%86/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/author/%E5%AD%99%E9%B9%8F/</loc><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E5%AD%99%E9%B9%8F/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/author/%E5%B8%AD%E6%99%93%E5%AE%87/</loc><changefreq>weekly</changefreq></url>
+    <loc>./zh/author/%E5%B8%AD%E6%99%93%E5%AE%87/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/zh/post/20-12-01-wowchemy-prize/</loc><changefreq>weekly</changefreq><xhtml:link
+    <loc>./zh/post/20-12-01-wowchemy-prize/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/20-12-01-wowchemy-prize/"
+      href="./post/20-12-01-wowchemy-prize/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://example.com/zh/post/20-12-01-wowchemy-prize/"
+      href="./zh/post/20-12-01-wowchemy-prize/"
     /></url>
   <url>
-    <loc>https://example.com/zh/author/%E9%99%88%E7%90%AA/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>./zh/author/%E9%99%88%E7%90%AA/</loc><changefreq>weekly</changefreq></url></urlset>

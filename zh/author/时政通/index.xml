@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>时政通 | EIF</title>
-    <link>https://example.com/zh/author/%E6%97%B6%E6%94%BF%E9%80%9A/</link>
-      <atom:link href="https://example.com/zh/author/%E6%97%B6%E6%94%BF%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
+    <link>./zh/author/%E6%97%B6%E6%94%BF%E9%80%9A/</link>
+      <atom:link href="./zh/author/%E6%97%B6%E6%94%BF%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
     <description>时政通</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/logo_hud3bb1422cb570c9c602b34e558b12a5d_4102545_300x300_fit_lanczos_3.png</url>
       <title>时政通</title>
-      <link>https://example.com/zh/author/%E6%97%B6%E6%94%BF%E9%80%9A/</link>
+      <link>./zh/author/%E6%97%B6%E6%94%BF%E9%80%9A/</link>
     </image>
     
     <item>
       <title>Age, Growth and Maturation of Largehead Hairtail (Trichiurus japonicus) in the East China Sea</title>
-      <link>https://example.com/zh/publication/journal-article/2022/age-growth-and-maturation-of-largehead-hairtail-trichiurus-japonicus-in-the-east-china-sea/</link>
+      <link>./zh/publication/journal-article/2022/age-growth-and-maturation-of-largehead-hairtail-trichiurus-japonicus-in-the-east-china-sea/</link>
       <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/zh/publication/journal-article/2022/age-growth-and-maturation-of-largehead-hairtail-trichiurus-japonicus-in-the-east-china-sea/</guid>
+      <guid>./zh/publication/journal-article/2022/age-growth-and-maturation-of-largehead-hairtail-trichiurus-japonicus-in-the-east-china-sea/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

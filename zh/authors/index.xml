@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | EIF</title>
-    <link>https://example.com/zh/authors/</link>
-      <atom:link href="https://example.com/zh/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>./zh/authors/</link>
+      <atom:link href="./zh/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/logo_hud3bb1422cb570c9c602b34e558b12a5d_4102545_300x300_fit_lanczos_3.png</url>
       <title>Authors</title>
-      <link>https://example.com/zh/authors/</link>
+      <link>./zh/authors/</link>
     </image>
     
   </channel>

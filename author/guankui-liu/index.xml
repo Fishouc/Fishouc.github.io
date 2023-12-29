@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guankui Liu | Peng Sun&#39;s Team</title>
-    <link>https://example.com/author/guankui-liu/</link>
-      <atom:link href="https://example.com/author/guankui-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>./author/guankui-liu/</link>
+      <atom:link href="./author/guankui-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Guankui Liu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/guankui-liu/avatar_huf165dcc218785d901b6b51e58f670684_155789_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/guankui-liu/avatar_hud62e2d322aff0c8598788f348cb0cc35_81102_270x270_fill_lanczos_center_3.png</url>
       <title>Guankui Liu</title>
-      <link>https://example.com/author/guankui-liu/</link>
+      <link>./author/guankui-liu/</link>
     </image>
     
   </channel>
