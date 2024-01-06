@@ -5,12 +5,26 @@
     <link>https://Fishouc.github.io/author/guankui-liu/</link>
       <atom:link href="https://Fishouc.github.io/author/guankui-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Guankui Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Fishouc.github.io/author/guankui-liu/avatar_hud62e2d322aff0c8598788f348cb0cc35_81102_270x270_fill_lanczos_center_3.png</url>
       <title>Guankui Liu</title>
       <link>https://Fishouc.github.io/author/guankui-liu/</link>
     </image>
+    
+    <item>
+      <title>The Effects of Selective Harvest on Exploited Population and Economic Benefits</title>
+      <link>https://Fishouc.github.io/publication/journal-article/2023_before/2022_pengsun_eco/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://Fishouc.github.io/publication/journal-article/2023_before/2022_pengsun_eco/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
